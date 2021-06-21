@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TextViewExpandableWidget">
+        <attr name="startHeight" format="dimension" />
+        <attr name="changeClickInText" format="boolean" />
+        <attr name="durationExpandTimeInMiles" format="integer"/>
+        <attr name="durationCollapseTimeInMiles" format="integer"/>
+    </declare-styleable>
+</resources>
